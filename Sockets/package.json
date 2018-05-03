@@ -1,0 +1,17 @@
+{
+  "name": "Sockets",
+  "version": "1.0.0",
+  "description": "Prueba con Sockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/main.js"
+  },
+  "keywords": [],
+  "author": "Mariano Benzo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "socket.io": "^2.1.0"
+  }
+}
